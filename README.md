@@ -23,8 +23,6 @@ Regions: **IN, US, GB, DE, CA, FR, BR, MX, KR, JP**
 - **part_2.sql** → Data cleaning and deduplication (handling NULLs, duplicates, integrity checks)  
 - **part_3.sql** → Data analysis queries (most viewed videos, likes ratio, category trends, channel performance)  
 - **part_4.sql** → Business question queries (category recommendations for new YouTube channels)  
-- **Report.pdf / Report.docx** → Handover report with explanations, screenshots, answers, and business recommendation  
-
 ---
 
 ## Key Steps  
